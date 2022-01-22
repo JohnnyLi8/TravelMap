@@ -1,7 +1,7 @@
 # TravelMap
 Travel Map Generator
 
-to run the code, you will need Google Maps API Keys
+Download the repository, fill in your Google Maps API keys, and run the Excel.py file.
 
 Improvements to be made:
 - make the program select the right zoom-in level of the map (need to do some experiments)
